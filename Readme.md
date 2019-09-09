@@ -1,3 +1,3 @@
 This is just a Wiki-repository.
 
-Go to [Wiki](../../../CX/wiki)
+Go to [Wiki](../../wiki)
